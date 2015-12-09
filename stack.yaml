@@ -1,0 +1,7 @@
+flags: {}
+packages:
+- '.'
+- location:
+    git: git@github.com:tomtau/datalog.git
+    commit: eae4d46938036dc932ec8f6e4aaf1342e9065cb6
+resolver: lts-3.17

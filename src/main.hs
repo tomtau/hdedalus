@@ -3,9 +3,9 @@ import Data.Text hiding (map)
 import Data.Time.Clock
 import Data.Typeable
 import Database.Datalog
-import Data.EDN
+--import Data.EDN
 
-main = do 
+main = do
   putStrLn "Hello World"
 
 
@@ -28,5 +28,3 @@ main = do
 --   :db/doc
 --   :db/unique
 --   and some others
-
-
